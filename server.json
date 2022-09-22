@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2021-03-01"
+    },
+    {
+      "id": "2",
+      "description": "Burguer King",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2021-03-01"
+    },
+    {
+      "id": "3",
+      "description": "Vende-C",
+      "type": "outcome",
+      "category": "Curso",
+      "price": 3000,
+      "createdAt": "2021-03-01"
+    },
+    {
+      "description": "Moto",
+      "price": 8300,
+      "category": "Automóvel",
+      "type": "outcome",
+      "createdAt": "2022-09-22T15:58:11.717Z",
+      "id": "aHzmR3s"
+    },
+    {
+      "description": "Freelance Eletrogate",
+      "price": 500,
+      "category": "Serviços",
+      "type": "income",
+      "createdAt": "2022-09-22T15:58:52.694Z",
+      "id": "EVO2bpH"
+    },
+    {
+      "description": "Gasolina",
+      "price": 50,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2022-09-22T16:15:07.253Z",
+      "id": "a3gwM66"
+    },
+    {
+      "description": "Itus",
+      "price": 200,
+      "category": "Freelance",
+      "type": "income",
+      "createdAt": "2022-09-22T16:15:41.799Z",
+      "id": "1DKUu78"
+    }
+  ]
+}
